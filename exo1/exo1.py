@@ -3,4 +3,5 @@ class Item:
         self.price = price
         self.weight = weight
 
-
+    def fonc(p):
+        pass
