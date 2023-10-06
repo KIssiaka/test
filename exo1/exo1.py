@@ -7,5 +7,5 @@ class Item:
         pass
 
     def fic(a):
-        print ("hi")
+        pass
       
