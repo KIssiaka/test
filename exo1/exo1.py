@@ -6,5 +6,8 @@ class Item:
     def fonc(p):
         pass
 
+    def hi(a):
+        pass
+
    
       
