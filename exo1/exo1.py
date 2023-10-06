@@ -6,6 +6,5 @@ class Item:
     def fonc(p):
         pass
 
-    def fic(a):
-        pass
+   
       
