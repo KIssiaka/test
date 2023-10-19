@@ -1,3 +1,3 @@
 class Item:
-    def __init__(self):
-        self._price = price
+    def __init__(self, price):
+        self.price = price
