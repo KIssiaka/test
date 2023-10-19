@@ -1,4 +1,4 @@
 class Item:
-    def __init__(self, price, weight):
+    def __init__(self, price):
         self.price = price
         
